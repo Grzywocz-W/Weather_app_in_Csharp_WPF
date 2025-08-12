@@ -1,0 +1,46 @@
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\bin\Debug\net8.0-windows\Aplikacja pogodowa.exe
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\bin\Debug\net8.0-windows\Aplikacja pogodowa.deps.json
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\bin\Debug\net8.0-windows\Aplikacja pogodowa.runtimeconfig.json
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\bin\Debug\net8.0-windows\Aplikacja pogodowa.dll
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\bin\Debug\net8.0-windows\Aplikacja pogodowa.pdb
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.csproj.AssemblyReference.cache
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa_MarkupCompile.cache
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa_MarkupCompile.lref
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.g.resources
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.AssemblyInfoInputs.cache
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.AssemblyInfo.cs
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.csproj.CoreCompileInputs.cache
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacj.353F0520.Up2Date
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.dll
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\refint\Aplikacja pogodowa.dll
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.pdb
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.genruntimeconfig.cache
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa\Aplikacja pogodowa\obj\Debug\net8.0-windows\ref\Aplikacja pogodowa.dll
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\bin\Debug\net8.0-windows\Aplikacja pogodowa.exe
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\bin\Debug\net8.0-windows\Aplikacja pogodowa.deps.json
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\bin\Debug\net8.0-windows\Aplikacja pogodowa.runtimeconfig.json
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\bin\Debug\net8.0-windows\Aplikacja pogodowa.dll
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\bin\Debug\net8.0-windows\Aplikacja pogodowa.pdb
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.csproj.AssemblyReference.cache
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa_MarkupCompile.cache
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa_MarkupCompile.lref
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.g.resources
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.AssemblyInfoInputs.cache
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.AssemblyInfo.cs
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.csproj.CoreCompileInputs.cache
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacj.353F0520.Up2Date
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.dll
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\refint\Aplikacja pogodowa.dll
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.pdb
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\Aplikacja pogodowa.genruntimeconfig.cache
+C:\Users\anka0\STUDIA WAZNE\PROGRAMOWANIE\C#\Aplikacja pogodowa — GitHub\Aplikacja pogodowa\obj\Debug\net8.0-windows\ref\Aplikacja pogodowa.dll

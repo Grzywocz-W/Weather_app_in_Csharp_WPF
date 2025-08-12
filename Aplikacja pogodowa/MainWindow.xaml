@@ -1,0 +1,110 @@
+﻿<Window x:Class="Aplikacja_pogodowa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aplikacja_pogodowa"
+        mc:Ignorable="d"
+        Title="Aplikacja Pogodowa" Height="800" Width="950" WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <Storyboard x:Key="SunnyBackground">
+            <ColorAnimation Storyboard.TargetName="BackgroundRect"
+                            Storyboard.TargetProperty="(Rectangle.Fill).(SolidColorBrush.Color)"
+                            To="LightGoldenrodYellow" Duration="0:0:2"/>
+        </Storyboard>
+
+        <Storyboard x:Key="CloudyBackground">
+            <ColorAnimation Storyboard.TargetName="BackgroundRect"
+                            Storyboard.TargetProperty="(Rectangle.Fill).(SolidColorBrush.Color)"
+                            To="LightGray" Duration="0:0:2"/>
+        </Storyboard>
+
+        <Storyboard x:Key="RainyBackground">
+            <ColorAnimation Storyboard.TargetName="BackgroundRect"
+                            Storyboard.TargetProperty="(Rectangle.Fill).(SolidColorBrush.Color)"
+                            To="LightSteelBlue" Duration="0:0:2"/>
+        </Storyboard>
+
+        <Storyboard x:Key="FadeInIconStoryboard">
+            <DoubleAnimation Storyboard.TargetName="WeatherIcon"
+                             Storyboard.TargetProperty="Opacity"
+                             From="0" To="1"
+                             Duration="0:0:2"
+                             FillBehavior="HoldEnd"/>
+        </Storyboard>
+    </Window.Resources>
+    
+    
+    <Grid x:Name="RootGrid">
+        <Rectangle x:Name="BackgroundRect" Fill="LightBlue"/>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel>
+                <Label Grid.Column="0" Margin="5 10 0 10" Content="Wybierz miasto:"/>
+                <ComboBox x:Name="CityComboBox" Grid.Column="0" Margin="10 10 10 10" Width="280" Height="20" Text="--WYBIERZ--"/>
+
+                <Button Grid.Column="0" Margin="50 30 50 30" Content="Wyczyść" Width="90" Height="30" FontSize="12" Padding="5" Background="White" Foreground="Black" Click="clear_text"/>
+
+                <Label Grid.Column="0" Margin="5 10 0 10" Content="Lub wpisz miasto:"/>
+                <TextBox x:Name="CityTextBox" Grid.Column="0" Margin="5 10 0 10" Width="280" Height="25" FontSize="10" Padding="5"/>
+
+                <Button Grid.Column="0" Margin="50 100 50 50" Content="Wybierz" Width="200" Height="50" FontSize="18" Padding="5" Background="Green" Foreground="White" Click="api_querry"/>
+
+            </StackPanel>
+
+
+            <StackPanel Grid.Column="1" Margin="30" HorizontalAlignment="Center">
+                <Label x:Name="CityLabel" FontSize="40" FontWeight="Bold" HorizontalAlignment="Center"/>
+                <TextBlock x:Name="wyswietlacz" FontSize="26" FontWeight="Bold" TextAlignment="Center" Text="Witaj, Pogodnego dnia!" TextWrapping="Wrap " />
+                <ProgressBar x:Name="Loader" IsIndeterminate="True" Visibility="Collapsed" Height="10" Margin="10"/>
+                <Image x:Name="WeatherIcon" Width="100" Height="100" Margin="0,20,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" Opacity="0"/>
+                <Image x:Name="WeatherMap"  Width="300" Height="200" Margin="0, 0, 0, 0" Opacity="1"/>
+            </StackPanel>
+
+
+
+
+
+            <StackPanel x:Name="StackPanelForecast" Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0 310 0 0" Visibility="Collapsed">
+                <TextBlock Text="Prognoza na 5 dni:" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center"/>
+
+                <ListBox x:Name="ForecastListBox" HorizontalAlignment="Center" Width="600" Height="350" Background="#FF4A4AFC" ScrollViewer.HorizontalScrollBarVisibility="Auto"
+             ScrollViewer.VerticalScrollBarVisibility="Disabled" ScrollViewer.CanContentScroll="False">
+
+                    <ListBox.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <StackPanel Orientation="Horizontal"/>
+                        </ItemsPanelTemplate>
+                    </ListBox.ItemsPanel>
+
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Border Width="220" Height="200" Padding="10" Margin="5" Background="LightBlue" CornerRadius="8">
+                                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <TextBlock Text="{Binding DateTime}" HorizontalAlignment="Center" FontWeight="Bold"/>
+                                    <Image Width="50" Height="50" Source="{Binding Icon}" HorizontalAlignment="Center"/>
+                                    <TextBlock Text="{Binding Temperature}" HorizontalAlignment="Center"/>
+                                    <TextBlock Text="{Binding Pressure}" HorizontalAlignment="Center"/>
+                                    <TextBlock Text="{Binding Description}" HorizontalAlignment="Center" TextWrapping="Wrap" TextAlignment="Center"/>
+                                </StackPanel>
+                            </Border>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                
+                
+                </ListBox>
+            </StackPanel>
+
+
+        
+        
+        </Grid>
+
+    </Grid>
+</Window>
